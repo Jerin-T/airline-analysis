@@ -45,16 +45,18 @@ The analysis employs a combination of data cleaning, exploratory data analysis (
 The analysis was conducted using various tools and technologies, including:
 - Python programming language
 - Google Cloud
+- Hadoop MapReduce
+- PySpark
 - Tableau
 
 ## Contributors
 
 This project was a collaborative effort. Contributors include:
-- [ABISHEAK DHANABAL(C0903766)]
-- [ALWIN KANNYAKONIL SCARIA (C0894287)]
-- [ASHNA VIJI ALEX(C0901082)]
-- [JERIN THENGUMPALLIL THOMAS (C0896235)]
-- [KUNCHERIA TOM(C0900973)]
-- [PRINCE THOMAS (C0894907)]
-- [MOHAMED AFTAB (C0891945)]
+- ABISHEAK DHANABAL(C0903766)
+- ALWIN KANNYAKONIL SCARIA (C0894287)
+- ASHNA VIJI ALEX(C0901082)
+- JERIN THENGUMPALLIL THOMAS (C0896235)
+- KUNCHERIA TOM(C0900973)
+- PRINCE THOMAS (C0894907)
+- MOHAMED AFTAB (C0891945)
 ---
