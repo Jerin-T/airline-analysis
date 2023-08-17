@@ -34,4 +34,5 @@ result = airports_df.alias("a1").join(
     col("airport1"), col("airport2")
 )
 result.show()
+
 spark.stop()
